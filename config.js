@@ -1,17 +1,16 @@
-Bconst CONFIG = {
-    introTitle: 'Chị Hìn à!',
-    introDesc: `Hihi iuuu chị nhiều
- Bấm tiếp đi chị yêu`,
-    btnIntro: '<3',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên  😙',
+const CONFIG = {
+    introTitle: 'Chị Hiền à!',
+    introDesc: `Thật raa là em yêu chị nhiều lắm`,
+    btnIntro: 'ngại quá hihi Bấm tiếp đi chị',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Yêu Thdiep nhiều nhắmmm',
-    btnNo: 'hihi không nhaa ',
-    question:'Chị có yêu emm hong',
-    btnReply: 'Gửi cho thdiep',
-    reply: 'Chị yêu em nhiều lắm <3',
-    mess: 'uuu là trời 🥰. Yêu chị nhiều nhiều 😘😘',
-    messDesc: 'Yêu Bé Nhiều.',
-    btnAccept: 'Dạaaaa lun <3',
-    messLink: 'https://www.facebook.com/thang.diep06/' 
+    btnYes: 'Yêu Emm <33',
+    btnNo: 'Không, Em trai à :3',
+    question:'Chị có yêu em hongg <3',
+    btnReply: 'Gửi cho em <3',
+    reply: 'Chị yêu em nhiều lắm <33333333',
+    mess: 'Emm biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
+    messDesc: 'Zậy thì chị cho em tìm hiểu chị nhó.',
+    btnAccept: 'Dạaaaa  <3',
+    messLink: 'https://m.facebook.com/thang.diep06' 
 }
